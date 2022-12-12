@@ -1,5 +1,5 @@
 # Tailbox
-A simple aerodynamic storage trunk for a standard bike rack. The trunk sits behind the rider and provides more protection from weather than an open crate while reducing drag. You can preview the design in 3D by downloading [this](https://github.com/Wright4TheJob/Tailbox/blob/main/Tailbox_Assembly.xhtml) html file.
+A simple aerodynamic storage trunk for a standard bike rack. The trunk sits behind the rider and provides more protection from weather than an open crate while reducing drag. You can preview the design in 3D by downloading [this](https://github.com/Wright4TheJob/Tailbox/blob/main/docs/Tailbox_Assembly.xhtml) html file.
 
 ![Side view of the tailbox mounted to a recumbent bike](https://github.com/Wright4TheJob/Tailbox/blob/main/docs/side_view_recumbent.jpg?raw=true "Mounted to a recumbent")
 The tailbox fits on the bike rack, so is compatible with upright and recumbent bikes.
