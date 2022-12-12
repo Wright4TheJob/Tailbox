@@ -1,13 +1,15 @@
 # Tailbox
 A simple aerodynamic storage trunk for a standard bike rack. The trunk sits behind the rider and provides more protection from weather than an open crate while reducing drag. You can preview the design in 3D by downloading [this](https://github.com/Wright4TheJob/Tailbox/blob/main/Tailbox_Assembly.xhtml) html file.
 
+![Side view of the tailbox mounted to a recumbent bike](https://github.com/wright4thejob/tailbox/docs/side_view_recumbent.jpg "Mounted to a recumbent")
+
 This tailbox can use any bendable sheet plastic, such as HDPE or cloroplast, to form a sturdy storage trunk with minimal tools and materials. Thin solid plastic sheet (1/16 inch or less) can be cut with scissors to the desired shape. Holes can be hand drilled and brackets 3D printed.
 
 The design is modeled with [FreeCAD](https://www.freecad.org) and is fully parametric for your needs. Simply open the Tailbox.FCStd file and modify the parameters in the "dims" spreadsheet. Changing the dimensions there will propagate to the whole assembly. If you change overall dimensions, flat patterns for sheet parts will need to be refreshed.
 
 
 Bill of Materials:
-| POS | QTY | DESCRIPTION | SUPPLIER | SUPP.IDENTNO | (FILENAME)|
+| POS | QTY | DESCRIPTION | SUPPLIER | SUPPLIER # | (FILENAME)|
 |--:  | --: | ---         | ---      | ---          | ---       |
 |1    |1    | Tailbox Exterior |     | | Tailbox Exterior.FCStd |
 |2    |1    | Tailbox Floor    |     |    | Tailbox Floor.FCStd |
